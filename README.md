@@ -10,9 +10,9 @@
 
 ---
 
-## 👩‍💻 About Me
+ ## 👩‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="380" src="https://raw.githubusercontent.com/varshinie52/varshinie52/main/code.gif"/>
 
 ```javascript
 const varshini = {
@@ -38,9 +38,12 @@ const varshini = {
 
   motto: () => "Build things. Break things. Learn everything."
 };
+` ` `
 ```
 
----
+Just replace the entire `## 👩‍💻 About Me` section in your README with this. The only change is the `src` URL now points to your own repo instead of someone else's.
+
+And remember to also upload `code.gif` to your `varshinie52` repo first, otherwise it'll still show the placeholder!
 
 ## 🛠️ Tech Stack
 
