@@ -1,189 +1,327 @@
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=T.%20Varshini&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20Video%20Editor&descAlignY=65&descSize=17" width="100%"/>
+ <div align="center">
+<!-- Snake animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Crafting+Digital+Experiences+%F0%9F%8C%90;Full+Stack+Developer+%7C+React+%2B+.NET;UI%2FUX+Designer+%7C+Figma+%2B+Illustrator;Video+Editor+%7C+DaVinci+%2B+After+Effects;Building+things+that+matter+%F0%9F%9A%80" alt="Typing SVG" />
+<!-- Typing SVG -->
+Show Image
+
+<br/>
+Building scalable web apps, AI-powered products, and beautiful user experiences.
+
+<br/>
+Show Image
+Show Image
+Show Image
+
 </div>
 
 <br/>
+$ whoami
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=varshinie52&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS" alt="Profile Views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/varshinie52?style=for-the-badge&color=38bdf8&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/>
-</div>
+typescriptconst varsh = {
+  role:       ["Full-Stack Developer", "UI/UX Designer", "Video Editor"],
+  education:  "BSc Computer Science · 2023–2026",
+  location:   "India 🇮🇳",
+  currentFocus: [
+    "Building LifeOS — a full-stack personal productivity platform",
+    "Mastering system design & clean architecture",
+    "Diving deep into LLMs, RAG, and AI agents",
+  ],
+  philosophy: "Ship fast. Think in systems. Never stop learning.",
+  openTo:     ["Freelance", "Collaboration", "Full-time Roles"],
+};
+
+<br/>
+I'm a Computer Science student with a genuine obsession for building things that work beautifully — from pixel-perfect interfaces to robust backend APIs. I care about writing code that is readable, maintainable, and purposeful. When I'm not coding, I'm editing videos or sketching UI concepts that push design a step further.
+
+Three identities. One mission: create exceptional digital experiences.
 
 <br/>
 
----
+$ ls tech-stack/
 
- 
-<div align="center">
-  <img width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-</div>
+<br/>
+Frontend
+
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+
+Backend
+
+Show Image
+Show Image
+Show Image
+Show Image
+
+Database
+
+Show Image
+Show Image
+Show Image
+Show Image
+
+AI & Tooling
+
+Show Image
+Show Image
+Show Image
+
+Cloud & DevOps
+
+Show Image
+Show Image
+Show Image
+Show Image
+
+Design
+
+Show Image
+Show Image
+Show Image
+
+Version Control & Workflow
+
+Show Image
+Show Image
+Show Image
+Show Image
 
 <br/>
 
- 
-## ✦ Tech Stack
+$ cat featured-projects.json
 
+<br/>
+LifeOS · Personal Productivity Platform
+
+
+A full-stack productivity OS built for people who take self-improvement seriously.
+
+
+
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+
+Architecture: React + Vite + TypeScript SPA · Node.js/Express REST API · MongoDB · Context API · Clean Architecture
+
+Key Features:
+
+
+Habit tracker with streaks, heatmaps, and completion analytics
+Goal management with progress visualization via Recharts
+Daily journal, task manager, and finance tracker modules
+Responsive dark-first UI with Framer Motion micro-animations
+LocalStorage persistence + full-stack sync layer
+
+
+Show Image
+Show Image
+
+
+GadgetZone · E-Commerce Platform
+
+
+A full-featured gadget storefront with multi-currency support, role-based access, and a complete admin panel.
+
+
+
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+
+Architecture: Vite/React Frontend · Express REST API · MySQL via Prisma ORM · Cloudinary CDN · Stripe Payments
+
+Key Features:
+
+
+Guest cart system that persists across sessions
+Multi-currency support with live conversion
+Role-based access control (Admin / Customer)
+Admin dashboard with inventory, order, and user management
+Cloudinary image upload and CDN delivery
+
+
+Show Image
+Show Image
+
+
+Plant Disease Analyzer · AI Tool
+
+
+Upload a leaf, get an instant diagnosis. ML-powered disease detection for farmers and hobbyists.
+
+
+
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+
+Show Image
+
+
+<details>
+<summary><b>View More Projects →</b></summary>
+<br/>
+ProjectStackDescriptionWeather AppReact · OpenWeather APIReal-time weather with 7-day forecast and animated UIExpense TrackerReact · Chart.js · LocalStorageVisual budget management with category breakdownsMovie SearchReact · TMDB APISearch, filter, and discover films with a clean card UITask ManagerReact · Node.js · MongoDBFull-stack to-do app with drag-and-drop and due datesChat ApplicationReact · Socket.io · Node.jsReal-time messaging with rooms and typing indicatorsPortfolio WebsiteHTML · CSS · JSAnimated personal portfolio with glassmorphism design
+
+</details>
+<br/>
+
+$ git log --analytics
+
+<br/>
 <div align="center">
-
-**💻 Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-**🌐 Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**⚙️ Backend & Database**
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**🎨 Design & Creative**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-**🎬 Video Editing**
-
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white)
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva%20Video-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-**🛠️ Developer Tools**
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=varsh&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=06B6D4&text_color=E2E8F0"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varsh&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0"/>
+</div>
+<br/>
+<div align="center">
+Show Image
 
 </div>
-
----
-
-## ✦ GitHub Stats
-
+<br/>
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=varshinie52&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=38bdf8&text_color=e2e8f0&border_radius=12"/>
-  &nbsp;
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshinie52&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0&langs_count=8&border_radius=12"/>
-</div>
-
----
-
-## ✦ Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=varshinie52&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=A78BFA&fire=F472B6&currStreakLabel=A78BFA&sideLabels=38BDF8&dates=8B949E&currStreakNum=E2E8F0&sideNums=E2E8F0&stroke=0D1117&border_radius=12" alt="GitHub Streak"/>
-</div>
-
----
-
-## ✦ Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varshinie52&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=38bdf8&point=f472b6&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
----
-
-## ✦ Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=varshinie52&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
-</div>
-
----
-
-## ✦ Featured Projects
-
-<div align="center">
-
-### 🌿 Plant Disease Analyzer
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-> Upload a plant photo → get instant disease detection results.
-> Designed for **farmers & agricultural students** — simple, fast, intuitive UI.
-> Built a fully responsive frontend; disease logic handled via .NET backend.
-
----
-
-### 🛒 E-Commerce Website
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-> Full e-commerce platform with product listings, cart, search & order management.
-> Smooth navigation + filtering system — no payment gateway required.
-> .NET backend handles product data, user sessions, and order processing.
+Show Image
 
 </div>
-
----
-
-## ✦ Currently Learning
-
-```
-🔷  React              →  Hooks, Context API, Component Architecture
-🟢  Node.js            →  Server-side JS, Middleware, NPM Ecosystem
-⚡  Express.js         →  REST API Design, Routing, MVC Pattern
-🍃  MongoDB            →  NoSQL, Aggregation, Mongoose ODM
-🔗  REST APIs          →  HTTP Methods, Auth, JSON Responses
-🏗️  System Design      →  Scalability, Load Balancing, DB Design
-🧱  DSA                →  Arrays, Two Pointers, Sliding Window, Trees
-🤖  AI / LLM Basics    →  Prompt Engineering, API Integration
-```
-
----
-
-## ✦ Education
-
+<br/>
 <div align="center">
-
-| | Degree | Institution | Year | Score |
-|--|--------|-------------|------|-------|
-| 🎓 | BSc Computer Science | Arulmigu Palaniandavar Arts College for Women | 2023 – 2026 | 80% |
-| 📚 | HSC — Class XII | Sri Visalakshi Girls Higher Secondary School | 2023 | 80% |
+Show Image
 
 </div>
+<br/>
 
----
+$ cat journey.log
 
-## ✦ Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varshini-thampuraj-5170862b7)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varshinie52)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varshinithampuraj52@gmail.com)
+<br/>
+2020 ──────── Wrote first HTML page. Caught the bug immediately.
+2021 ──────── CSS clicked. Started thinking in layouts and spacing.
+2022 ──────── JavaScript: the language that made the web feel alive.
+2022 Q4 ───── React. Components, state, hooks. Never looked back.
+2023 ──────── Node.js + Express. REST APIs. Backend unlocked.
+2023 Q3 ───── MongoDB, MySQL, Prisma. Data has structure.
+2024 ──────── Full-stack projects: LifeOS, GadgetZone. Systems thinking.
+2024 Q3 ───── System design, clean architecture, DSA interview prep.
+2025 ──────── LLMs, RAG pipelines, AI agents. Building with intelligence.
+Now ────────── Shipping. Learning. Contributing. Repeat.
 
 <br/>
 
-*"Design it. Code it. Ship it."*
+$ cat focus.md
+
+<br/>
+Right now I'm deep in:
+
+
+Full-stack architecture — building real products end-to-end, not just tutorials
+System Design — scalability, caching, load balancing, microservices
+Data Structures & Algorithms — grinding problems with intent
+AI Engineering — LLMs, RAG, embeddings, vector databases, AI agents
+Cloud Deployment — CI/CD, containerization, production-grade deployments
+Video Production — motion graphics, color grading, narrative editing
+
+
+<br/>
+
+$ cat philosophy.txt
+
+<br/>
+
+"Clean code is not just about syntax — it's about writing software that others can understand, trust, and build upon."
+
+
+
+<br/>
+I believe great software lives at the intersection of clarity, performance, and empathy for the user. Every function I write, every component I build, I ask: would a stranger understand this six months from now?
+
+Building products has taught me that the best engineers are also the best communicators. Code is a conversation — with your team, with future-you, and with the machine.
+
+<br/>
+
+$ ./connect.sh
+
+<br/>
+<div align="center">
+Show Image
+Show Image
+Show Image
+Show Image
+
+<br/>
+Show Image
+Show Image
+Show Image
+Show Image
 
 </div>
+<br/>
 
----
+$ cat fun-facts.txt
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" width="100%"/>
+<br/>
+
+I operate across three disciplines: code, design, and video — and I think the overlap is where the interesting work happens
+I built a personal productivity OS (LifeOS) because I couldn't find a tool that thought like me
+I enjoy DSA not for the grinding, but for the moment when an O(n²) solution clicks into O(n log n)
+Dark mode is a non-negotiable. Always has been.
+I believe the best UI is the one the user never has to think about
+
+
+<br/>
+
+$ cat open-source.md
+
+<br/>
+Open source is how I give back to the ecosystem that taught me to build. I'm interested in:
+
+
+Fixing real bugs in tools I use daily
+Improving documentation for underserved projects
+Contributing UI/design improvements to developer tools
+Participating in hackathons and community sprints
+
+
+If you're building something meaningful and need an extra pair of hands — reach out.
+
+<br/>
+
+$ ./support.sh
+
+<br/>
+<div align="center">
+Show Image
+Show Image
+Show Image
+Show Image
+
+</div>
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=120&section=footer&text=Thanks+for+visiting&fontSize=24&fontColor=A78BFA&animation=twinkling&fontAlignY=75"/>
+"The best time to plant a tree was 20 years ago. The second best time is now."
+
+Built with care · Deployed with precision · Always improving
+
+© Varsh · 2025
+
+</div>
